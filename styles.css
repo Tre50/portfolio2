@@ -1,0 +1,90 @@
+
+body {
+    background-color:aqua;
+    font-family:cursive;
+}
+header { background-color: mediumorchid;
+    font-size: 2rem;
+    border: 10px solid black;
+    
+
+}
+li { font-family: cursive;
+    font-weight:bolder ;
+    font-size: 4rem;
+    border: 10px black;
+
+
+}
+
+p {
+    font-family: Tahoma;
+    font-size: 45px;
+
+}
+h1 {
+    font: size 32px;;
+
+}
+ 
+#email {  font-size: 3rem;
+
+}
+#email2 {
+    font-size: 3rem ;
+    color: rgb(255, 20, 20);
+    border: 8px solid black;
+    
+
+
+}
+#contacts {
+    font-size: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#project_list {
+
+    border: 9px solid yellow;
+    
+    
+
+}
+.workproj {
+    background-color: salmon;
+    font-size: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: center;
+
+}
+#list {
+    background-color: gold;
+    font-size: 50px;
+    list-style: none;
+    
+}
+#placeholder {
+    width: 25%;
+}
+ol {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+li{
+    border: 2px solid red;
+    margin: 15px;
+    padding: 20px;
+    
+}
+
+#me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
